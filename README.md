@@ -1,6 +1,6 @@
 Title: Market Basket Analysis - Groceries
 
-Sub-title: Analyse a kaggle dataset containing items grocery orders
+Sub-title: Analyse a dataset containing items in grocery orders
 
 Aim: To understand buying behaviour and create recommendations for future orders.
 
